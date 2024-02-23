@@ -2,5 +2,6 @@
 Demonstration of using git for CSC 324
 
 # Guide to contents of this repository
-- it only has one file: README.md
-- nothing else yet...
+- README.md
+- hello.txt
+- everything is in the same directory
