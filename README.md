@@ -5,3 +5,8 @@ Demonstration of using git for CSC 324
 - README.md
 - hello.txt
 - everything is in the same directory
+
+# Guide to contents of hello.txt
+- favorite colors
+- ASCII art cat
+- best cats
