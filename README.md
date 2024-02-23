@@ -10,3 +10,4 @@ Demonstration of using git for CSC 324
 - favorite colors
 - ASCII art cat
 - best cats
+- best dogs 
