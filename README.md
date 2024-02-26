@@ -4,6 +4,7 @@ Demonstration of using git for CSC 324
 # Guide to contents of this repository
 - README.md
 - hello.txt
+- instructor.txt
 - everything is in the same directory
 
 # Guide to contents of hello.txt
