@@ -1,0 +1,13 @@
+Here are some tips to be a good 324 Mentor
+
+Should have:
+1. Should have taken 324 before 
+2. Should have knowledge of agile development 
+3. Should be able to communicate effectively
+4. Should be able to accept that you're not always correct
+
+Optional:
+1. Have experience in software development
+2. Be energetic and positive!
+3. Enjoy assisting in teaching 
+4. Have good knowledge of git
