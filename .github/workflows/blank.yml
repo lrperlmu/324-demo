@@ -35,6 +35,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
+      # Runs scripty-script
+      - name: Run a file
+        run: python3 scripty-script.py
 
           
           
