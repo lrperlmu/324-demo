@@ -14,12 +14,11 @@ public class tester{
 
     @Test
     public void testAdd() {
-        assertEquals(5, tester(2,3))
+        assertEquals(5, tester(2,3));
     }
     @Test
     public void testFalse(){
-        assertEquals(6, tester(2,3))
+        assertEquals(6, tester(2,3));
     }
     
 }   
-}
