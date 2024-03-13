@@ -1,5 +1,5 @@
 # 324-demo
-Demonstration of using git for CSC 324
+Demonstration of git for CSC 324
 
 # Guide to contents of this repository
 - README.md
@@ -9,7 +9,7 @@ Demonstration of using git for CSC 324
 - dev-guide
 - .github/workflows
 
-# Guide to contents of hello.txt
+# The contents of hello.txt
 - favorite colors
 - ASCII art cat
 - best cats
@@ -19,4 +19,4 @@ Demonstration of using git for CSC 324
 - developer wiki
 
 # .github/workflows/
-- build automation
+- build automation is fun
