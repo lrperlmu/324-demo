@@ -6,10 +6,17 @@ Demonstration of using git for CSC 324
 - hello.txt
 - instructor.txt
 - mentorTips.txt
-- everything is in the same directory
+- dev-guide
+- .github/workflows
 
 # Guide to contents of hello.txt
 - favorite colors
 - ASCII art cat
 - best cats
 - best dogs 
+
+# dev-guide/
+- developer wiki
+
+# .github/workflows/
+- build automation
